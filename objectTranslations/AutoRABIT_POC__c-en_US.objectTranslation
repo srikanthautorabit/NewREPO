@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>AutoRABIT POC</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>AutoRABIT POCs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Abridged Problem Statement --></label>
+        <name>Abridged_Problem_Statement__c</name>
+        <picklistValues>
+            <masterLabel>Achieve &quot;Daily Deployments&quot; with your VCS and ALM systems</masterLabel>
+            <translation><!-- Achieve &quot;Daily Deployments&quot; with your VCS and ALM systems --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Achieve CI/CD using GUI for Salesforce DX - Create contextual scratch orgs and be able to version Unlocked Packages</masterLabel>
+            <translation><!-- Achieve CI/CD using GUI for Salesforce DX - Create contextual scratch orgs and be able to version Unlocked Packages --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cherry-pick and deploy only delta differences within specific user stories. Dependent user stories can be pushed as well</masterLabel>
+            <translation><!-- Cherry-pick and deploy only delta differences within specific user stories. Dependent user stories can be pushed as well --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Create, version and deploy nCino feature templates with dependencies. Also, version and migrate your Vlocity datapacks with dependencies</masterLabel>
+            <translation><!-- Create, version and deploy nCino feature templates with dependencies. Also, version and migrate your Vlocity datapacks with dependencies --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Frequent check-in to the repository to sync your Salesforce box with SCM branch on metadata changes, including deletions</masterLabel>
+            <translation><!-- Frequent check-in to the repository to sync your Salesforce box with SCM branch on metadata changes, including deletions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Managed Package: Metadata can be versioned in Source Control and data with dependencies can be migrated to Salesforce.</masterLabel>
+            <translation><!-- Managed Package: Metadata can be versioned in Source Control and data with dependencies can be migrated to Salesforce. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Migrate data records (w/ dependency across objects) from one Salesforce environment to another.</masterLabel>
+            <translation><!-- Migrate data records (w/ dependency across objects) from one Salesforce environment to another. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prevent Admins/Developers from overwriting their fellow user&apos;s metadata changes</masterLabel>
+            <translation><!-- Prevent Admins/Developers from overwriting their fellow user&apos;s metadata changes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Schedule deployments, code coverage and pre/post deployment steps</masterLabel>
+            <translation><!-- Schedule deployments, code coverage and pre/post deployment steps --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Schedule pre/post deployment activities by running it with automated deployments</masterLabel>
+            <translation><!-- Schedule pre/post deployment activities by running it with automated deployments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Testing POC-Q2</masterLabel>
+            <translation><!-- Testing POC-Q2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Understand who is deploying what changes to an environment. Commits and merges can also be tracked on a periodic basis.</masterLabel>
+            <translation><!-- Understand who is deploying what changes to an environment. Commits and merges can also be tracked on a periodic basis. --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Customer POC Request --></label>
+        <name>Customer_POC_Request__c</name>
+        <relationshipLabel><!-- AutoRABIT POCs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Q2-Demo --></label>
+        <name>Q2_Demo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Use Cases in AutoRABIT --></label>
+        <name>Use_Cases_in_AutoRABIT__c</name>
+        <picklistValues>
+            <masterLabel>Assists with preparation of logical metadata packages with depedencies</masterLabel>
+            <translation><!-- Assists with preparation of logical metadata packages with depedencies --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Automate Unit Tests by running code coverage only on dependent Test Classes</masterLabel>
+            <translation><!-- Automate Unit Tests by running code coverage only on dependent Test Classes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Code quality check</masterLabel>
+            <translation><!-- Code quality check --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Completely driven by GUI</masterLabel>
+            <translation><!-- Completely driven by GUI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Constructive and Destructive changes can be packaged into one commit</masterLabel>
+            <translation><!-- Constructive and Destructive changes can be packaged into one commit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Create feature templates for nCino with dependencies across sObjects</masterLabel>
+            <translation><!-- Create feature templates for nCino with dependencies across sObjects --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Creation of templates to support pre/post deployment activities</masterLabel>
+            <translation><!-- Creation of templates to support pre/post deployment activities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delta Deployments for nested metadata components</masterLabel>
+            <translation><!-- Delta Deployments for nested metadata components --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dependent records across multiple objects can be migrated with no limit on #records</masterLabel>
+            <translation><!-- Dependent records across multiple objects can be migrated with no limit on #records --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Deploy nCino templates (w/ dependencies) from either Salesforce Org or Version Control</masterLabel>
+            <translation><!-- Deploy nCino templates (w/ dependencies) from either Salesforce Org or Version Control --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Deploy specific work items (with dependencies) to higher environments that have passed testing</masterLabel>
+            <translation><!-- Deploy specific work items (with dependencies) to higher environments that have passed testing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Help users achieve CD faster than any other release management platform</masterLabel>
+            <translation><!-- Help users achieve CD faster than any other release management platform --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leverage an existing build to re-deploy into other environments</masterLabel>
+            <translation><!-- Leverage an existing build to re-deploy into other environments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Out-of-Box Integrations with commonly used tools like JIRA, GIT, etc.</masterLabel>
+            <translation><!-- Out-of-Box Integrations with commonly used tools like JIRA, GIT, etc. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Record the Metadata Configuration and nCino records in a branch</masterLabel>
+            <translation><!-- Record the Metadata Configuration and nCino records in a branch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Recurrent metadata check-ins</masterLabel>
+            <translation><!-- Recurrent metadata check-ins --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rollback the package either completely or selectively upon successful deployment</masterLabel>
+            <translation><!-- Rollback the package either completely or selectively upon successful deployment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Run Pre/Post Destructive Changes during Rollback to avoid dependency errors</masterLabel>
+            <translation><!-- Run Pre/Post Destructive Changes during Rollback to avoid dependency errors --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Salesforce users can collaborate on their metadata changes&quot;</masterLabel>
+            <translation><!-- Salesforce users can collaborate on their metadata changes&quot; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Schedule Data Loads or Integrate with metadata deployment</masterLabel>
+            <translation><!-- Schedule Data Loads or Integrate with metadata deployment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Schedule deployments (daily, weekly, webhook-based) with pre/post deployment tasks</masterLabel>
+            <translation><!-- Schedule deployments (daily, weekly, webhook-based) with pre/post deployment tasks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sensitive records masked during migration</masterLabel>
+            <translation><!-- Sensitive records masked during migration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Supports Lookup, Master-Detail, Junction objects, Self References</masterLabel>
+            <translation><!-- Supports Lookup, Master-Detail, Junction objects, Self References --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Supports all conflict resolution types - Ours, Theirs, Recursive and Fast Forward</masterLabel>
+            <translation><!-- Supports all conflict resolution types - Ours, Theirs, Recursive and Fast Forward --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Supports creation of contextual Scratch orgs and Second Generation packaging (Unlocked Packages)</masterLabel>
+            <translation><!-- Supports creation of contextual Scratch orgs and Second Generation packaging (Unlocked Packages) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tag work items during deployments</masterLabel>
+            <translation><!-- Tag work items during deployments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Templates can be run separately or tagged with CI Jobs</masterLabel>
+            <translation><!-- Templates can be run separately or tagged with CI Jobs --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Validate/Test a user story prior to a push</masterLabel>
+            <translation><!-- Validate/Test a user story prior to a push --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Version and deploy Vlocity datapacks with dependencies to reduce deployment times</masterLabel>
+            <translation><!-- Version and deploy Vlocity datapacks with dependencies to reduce deployment times --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visualize every day CI/CD operations and be able to generate reports on a daily/weekly/monthly basis</masterLabel>
+            <translation><!-- Visualize every day CI/CD operations and be able to generate reports on a daily/weekly/monthly basis --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>AutoRABIT POC Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
